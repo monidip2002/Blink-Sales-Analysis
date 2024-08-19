@@ -1,1 +1,1 @@
-# Blink-Sales-Analysis
+# Blinkit-Sales-Analysis
